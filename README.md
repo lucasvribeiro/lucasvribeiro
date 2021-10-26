@@ -6,7 +6,7 @@
 🤝🏻 You can find me at:
 
 - [:briefcase: LinkedIn](https://www.linkedin.com/in/lucasviniciusribeiro/)
-- [:computer: My Personal Website](https://www.linkedin.com/in/lucasvribeiro/)
+- [:computer: My Personal Website](https://www.lucasribeiro.dev/)
 - :email: contato@lucasribeiro.dev
 
 📊 My Github stats:
