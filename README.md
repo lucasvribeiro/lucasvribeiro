@@ -1,7 +1,7 @@
 ### Hi, I'm Lucas! A front-end developer from Brazil.
 
 - 🍃 Currently developing [Brumadinho Alert](https://alerta-brumadinho.netlify.app/)
-- 🎓 Final year of Bachelor's degree in Computer Science from [UTFPR](http://www.utfpr.edu.br/)
+- 🎓 Bachelor's degree in Computer Science from [UTFPR](http://www.utfpr.edu.br/)
 
 🤝🏻 You can find me at:
 
