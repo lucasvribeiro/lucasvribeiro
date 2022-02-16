@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas! A front-end developer from Brazil.
 
-- 🍃 Currently developing [Brumadinho Alert](https://alerta-brumadinho.netlify.app/)
+- 💙 Front-end Developer at [Luiza Labs](!https://medium.com/luizalabs)
 - 🎓 Bachelor's degree in Computer Science from [UTFPR](http://www.utfpr.edu.br/)
 
 🤝🏻 You can find me at:
