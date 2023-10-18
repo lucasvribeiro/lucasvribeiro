@@ -7,4 +7,4 @@
 
 - [:briefcase: LinkedIn](https://www.linkedin.com/in/lucasviniciusribeiro/)
 - [:computer: My Personal Website](https://www.lucasribeiro.dev/)
-- :email: contato@lucasribeiro.dev
+- :email: lucasvribeiro14@gmail.com
